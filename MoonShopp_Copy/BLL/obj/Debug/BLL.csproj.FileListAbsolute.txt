@@ -1,0 +1,26 @@
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\BLL\bin\Debug\BLL.exe.config
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\BLL\bin\Debug\BLL.exe
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\BLL\bin\Debug\BLL.pdb
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\BLL\bin\Debug\DAL.exe
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\BLL\bin\Debug\DAL.pdb
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\BLL\bin\Debug\DAL.exe.config
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\BLL\obj\Debug\BLL.Properties.Resources.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\BLL\obj\Debug\BLL.exe
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\BLL\obj\Debug\BLL.pdb
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\BLL\bin\Debug\BLL.exe.config
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\BLL\bin\Debug\BLL.exe
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\BLL\bin\Debug\BLL.pdb
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\BLL\bin\Debug\DAL.exe
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\BLL\bin\Debug\DAL.pdb
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\BLL\bin\Debug\DAL.exe.config
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\BLL\obj\Debug\BLL.Properties.Resources.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\BLL\obj\Debug\BLL.exe
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\BLL\obj\Debug\BLL.pdb

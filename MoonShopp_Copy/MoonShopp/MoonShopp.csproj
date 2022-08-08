@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{16EA6CDA-E00F-47FE-921D-8CDC2961614C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MoonShopp</RootNamespace>
+    <AssemblyName>MoonShopp</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\..\Downloads\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.DotNetBar2">
+      <HintPath>..\..\..\..\Downloads\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v21.2.Core, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeParser.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.Desktop.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v21.2.Core, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v21.2.Core, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v21.2.Core, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v21.2.Core, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v21.2.Core, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v21.2.Export, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v21.2.Core, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v21.2.UI, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v21.2.Core, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v21.2, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v21.2.Extensions, Version=21.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="data.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>data.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmDangKy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangKy.Designer.cs">
+      <DependentUpon>frmDangKy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDangKyThanhVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangKyThanhVien.Designer.cs">
+      <DependentUpon>frmDangKyThanhVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDoanhThu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDoanhThu.Designer.cs">
+      <DependentUpon>frmDoanhThu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDoiMatKhau.Designer.cs">
+      <DependentUpon>frmDoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGioHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGioHang.Designer.cs">
+      <DependentUpon>frmGioHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHangSanXuat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHangSanXuat.Designer.cs">
+      <DependentUpon>frmHangSanXuat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHoaDon.Designer.cs">
+      <DependentUpon>frmHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKhachHang.Designer.cs">
+      <DependentUpon>frmKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNhaCungCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNhaCungCap.Designer.cs">
+      <DependentUpon>frmNhaCungCap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNhanVien.Designer.cs">
+      <DependentUpon>frmNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQuenMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQuenMatKhau.Designer.cs">
+      <DependentUpon>frmQuenMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportHoaDonNhapHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportHoaDonNhapHang.Designer.cs">
+      <DependentUpon>frmReportHoaDonNhapHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSanPham.Designer.cs">
+      <DependentUpon>frmSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTrangChu.Designer.cs">
+      <DependentUpon>frmTrangChu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="xuathoadon.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>xuathoadon.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="xuathoadonnhap.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>xuathoadonnhap.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="frmDangKy.resx">
+      <DependentUpon>frmDangKy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDangKyThanhVien.resx">
+      <DependentUpon>frmDangKyThanhVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDoanhThu.resx">
+      <DependentUpon>frmDoanhThu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDoiMatKhau.resx">
+      <DependentUpon>frmDoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGioHang.resx">
+      <DependentUpon>frmGioHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHangSanXuat.resx">
+      <DependentUpon>frmHangSanXuat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHoaDon.resx">
+      <DependentUpon>frmHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKhachHang.resx">
+      <DependentUpon>frmKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNhaCungCap.resx">
+      <DependentUpon>frmNhaCungCap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNhanVien.resx">
+      <DependentUpon>frmNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQuenMatKhau.resx">
+      <DependentUpon>frmQuenMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportHoaDonNhapHang.resx">
+      <DependentUpon>frmReportHoaDonNhapHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSanPham.resx">
+      <DependentUpon>frmSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTrangChu.resx">
+      <DependentUpon>frmTrangChu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="xuathoadon.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>xuathoadon.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xuathoadonnhap.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>xuathoadonnhap.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="data.xsc">
+      <DependentUpon>data.xsd</DependentUpon>
+    </None>
+    <None Include="data.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>data.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="data.xss">
+      <DependentUpon>data.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{8151f58c-f2f0-4705-8cb8-c0ff9f4e3cf4}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{925d85ef-d4a1-49a7-b878-ab026a1e0533}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\LapTop\acer-nitro-5-gaming-an515-45-r6ev-r5-nhqbmsv006-%2818%29.jpg" />
+    <Content Include="Images\LapTop\acer-travelmate-b3-tmb311-31-p49d-n5030-nxvnfsv005-%2819%29.jpg" />
+    <Content Include="Images\LapTop\apple-macbook-air-m1-2020-z124000de-%2816%29.jpg" />
+    <Content Include="Images\LapTop\download.png" />
+    <Content Include="Images\LapTop\intel-nuc-m15-i5-bbc510eauxbc1-%2818%29.jpg" />
+    <Content Include="Images\LapTop\intel-nuc-m15-i7-bbc710bcuxbc1-thumb-1-600x600.jpg" />
+    <Content Include="Images\LapTop\lenovo-ideapad-1-11igl05-n5030-81vt006fvn.jpg" />
+    <Content Include="Images\LapTop\shopping %281%29.png" />
+    <Content Include="Images\LapTop\shopping %282%29.png" />
+    <Content Include="Images\LapTop\shopping %283%29.png" />
+    <Content Include="Images\LapTop\shopping %284%29.png" />
+    <Content Include="Images\LapTop\shopping %285%29.png" />
+    <Content Include="Images\LapTop\shopping.png" />
+    <Content Include="Images\LapTop\tai-nghe-bluetooth-airpods-2-wireless-charge-mrxj2-thumb.jpg" />
+    <Content Include="Images\NhanVien\269699763_1105127560348366_2340610619452922846_n.jpg" />
+    <Content Include="Images\NhanVien\288402774_1379484809212634_4709149689952643736_n.jpg" />
+    <Content Include="Images\NhanVien\z3389919882747_6e32d787558eea8156e8e1e35c803041 %281%29.jpg" />
+    <Content Include="Images\NhanVien\z3493516180923_f3c31267310f081b91ca675806f79f23.jpg" />
+    <Content Include="Images\Phone\-iphone-11-thietke.jpg" />
+    <Content Include="Images\Phone\1-1020x570.jpg" />
+    <Content Include="Images\Phone\2-2-1020x570.jpg" />
+    <Content Include="Images\Phone\2.ButSpen-1020x570.jpg" />
+    <Content Include="Images\Phone\3-3-1020x570.jpg" />
+    <Content Include="Images\Phone\3.Trainghiemthigiac-1020x570.jpg" />
+    <Content Include="Images\Phone\4-1020x570.jpg" />
+    <Content Include="Images\Phone\5.Thietkebenbi-1020x570.jpg" />
+    <Content Include="Images\Phone\Artboard1%281%29-1020x569.jpg" />
+    <Content Include="Images\Phone\c.jpg" />
+    <Content Include="Images\Phone\Galaxy-S22-Ultra-Burgundy-600x600.jpg" />
+    <Content Include="Images\Phone\iphone-11-note.jpg" />
+    <Content Include="Images\Phone\iphone-11-tim-1-1-1-org.jpg" />
+    <Content Include="Images\Phone\iphone-11-xanh-la-1-1-org.jpg" />
+    <Content Include="Images\Phone\iphone-12-pro-max-256gb-281120-1232000.jpg" />
+    <Content Include="Images\Phone\iphone-12-pro-max-256gb-bac-1-org.jpg" />
+    <Content Include="Images\Phone\iphone-12-pro-max-256gb-bac-4-org.jpg" />
+    <Content Include="Images\Phone\iphone-12-pro-max-256gb-note-2.jpg" />
+    <Content Include="Images\Phone\iphone-12-pro-max-256gb-xam-1-org.jpg" />
+    <Content Include="Images\Phone\iphone-12-pro-max-vang-new-600x600-1-600x600.jpg" />
+    <Content Include="Images\Phone\iphone-12-pro-max-xam-new-600x600-600x600.jpg" />
+    <Content Include="Images\Phone\iphone-13-256gb-xanh-la-180322-094853.jpg" />
+    <Content Include="Images\Phone\iphone-13-mini-xanh-xa-3.jpg" />
+    <Content Include="Images\Phone\iphone-13-mini-xanh-xa-5.jpg" />
+    <Content Include="Images\Phone\iphone-13-pro-max-1-1.jpg" />
+    <Content Include="Images\Phone\iphone-13-pro-max-1-2.jpg" />
+    <Content Include="Images\Phone\iphone-13-pro-max-1-3.jpg" />
+    <Content Include="Images\Phone\iphone-13-pro-max-n-2.jpg" />
+    <Content Include="Images\Phone\iphone-13-pro-max-xanh-1.jpg" />
+    <Content Include="Images\Phone\iphone-13-pro-max-xanh-la-170322-095645.jpg" />
+    <Content Include="Images\Phone\iphone-13-pro-max-xanh-la-170322-095649.jpg" />
+    <Content Include="Images\Phone\iphone-13-pro-max-xanh-la-thumb-600x600.jpg" />
+    <Content Include="Images\Phone\iphone-13-pro-sierra-blue-600x600.jpg" />
+    <Content Include="Images\Phone\iphone-13-pro-xanh-xa-1.jpg" />
+    <Content Include="Images\Phone\iphone-13-pro-xanh-xa-2.jpg" />
+    <Content Include="Images\Phone\iphone-13-pro-xanh-xa-3.jpg" />
+    <Content Include="Images\Phone\iphone-13-xanh-la-thumb-2-600x600.jpg" />
+    <Content Include="Images\Phone\iphone-xi-do-600x600.jpg" />
+    <Content Include="Images\Phone\oppo-reno4-pro-den-1-org.jpg" />
+    <Content Include="Images\Phone\oppo-reno4-pro-den-5-org.jpg" />
+    <Content Include="Images\Phone\oppo-reno4-pro-note.jpg" />
+    <Content Include="Images\Phone\oppo-reno4-pro-trang-1-org.jpg" />
+    <Content Include="Images\Phone\oppo-reno4-pro-trang-4-org.jpg" />
+    <Content Include="Images\Phone\oppo-reno4-pro-trang-600x600.jpg" />
+    <Content Include="Images\Phone\oppo-reno7-z-5g-thumb-1-1-600x600.jpg" />
+    <Content Include="Images\Phone\oppo-reno7-z-note-3.jpg" />
+    <Content Include="Images\Phone\realme-c35-1-1.jpg" />
+    <Content Include="Images\Phone\realme-c35-1-2.jpg" />
+    <Content Include="Images\Phone\realme-c35-2-1.jpg" />
+    <Content Include="Images\Phone\realme-c35-3-2.jpg" />
+    <Content Include="Images\Phone\realme-c35-n.jpg" />
+    <Content Include="Images\Phone\realme-c35-thumb-new-600x600.jpg" />
+    <Content Include="Images\Phone\samsung-galaxy-s22-ultra-note.jpg" />
+    <Content Include="Images\Phone\samsung-galaxy-z-flip-3-1-2.jpg" />
+    <Content Include="Images\Phone\samsung-galaxy-z-flip-3-1-3.jpg" />
+    <Content Include="Images\Phone\samsung-galaxy-z-flip-3-1-4.jpg" />
+    <Content Include="Images\Phone\samsung-galaxy-z-flip-3-cream-1-600x600.jpg" />
+    <Content Include="Images\Phone\samsung-galaxy-z-flip-3-kem-1-org.jpg" />
+    <Content Include="Images\Phone\samsung-galaxy-z-flip-3-kem-note.jpg" />
+    <Content Include="Images\Phone\samsung-galaxy-z-fold-3-%286%29.jpg" />
+    <Content Include="Images\Phone\samsung-galaxy-z-fold-3-1-1-org.jpg" />
+    <Content Include="Images\Phone\samsung-galaxy-z-fold-3-1-3.jpg" />
+    <Content Include="Images\Phone\samsung-galaxy-z-fold-3-2-2.jpg" />
+    <Content Include="Images\Phone\samsung-galaxy-z-fold-3-2-3.jpg" />
+    <Content Include="Images\Phone\samsung-galaxy-z-fold-3-n-2.jpg" />
+    <Content Include="Images\Phone\samsung-galaxy-z-fold-3-silver-1-600x600.jpg" />
+    <Content Include="Images\Phone\SamsungGalaxyS22ultraRAM8GBfixhz-1020x570.jpg" />
+    <Content Include="Images\Phone\shopping.png" />
+    <Content Include="Images\Phone\vi-vn-iphone-11-mausac.jpg" />
+    <Content Include="Images\Phone\vivo-v21-5g-note.jpg" />
+    <Content Include="Images\Phone\vivo-v21-5g-tim-hong-1-3-org.jpg" />
+    <Content Include="Images\Phone\vivo-v21-5g-tim-hong-4-3-org.jpg" />
+    <Content Include="Images\Phone\vivo-v21-5g-xanh-den-1-org.jpg" />
+    <Content Include="Images\Phone\vivo-v21-5g-xanh-den-2-org.jpg" />
+    <Content Include="Images\Phone\vivo-v21-5g-xanh-den-600x600.jpg" />
+    <Content Include="Images\Phone\xiaomi-redmi-note-11-pro-trang-thumb-600x600.jpg" />
+    <Content Include="Images\PhuKien\ava-lj-jp199-ava-600x600.jpg" />
+    <Content Include="Images\PhuKien\bluetooth-true-wireless-jbl-t115twswhtas-thumb.jpeg" />
+    <Content Include="Images\PhuKien\cap-type-c-lightning-2m-apple-mqgh2-trang-thumb.jpeg" />
+    <Content Include="Images\PhuKien\chuot-bluetooth-apple-mk2e3-trang-thumb.jpg" />
+    <Content Include="Images\PhuKien\chuot-co-day-dareu-em908-hong-thumb.jpeg" />
+    <Content Include="Images\PhuKien\co-day-dareu-ek87-1.-600x600.jpg" />
+    <Content Include="Images\PhuKien\pin-polymer-10000-mah-hydrus-pa-ck01-ava.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

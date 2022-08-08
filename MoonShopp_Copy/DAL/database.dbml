@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SHOPMOON_NET" Class="databaseDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=SHOPMOON_NET;User ID=sa" SettingsObjectName="DAL.Properties.Settings" SettingsPropertyName="SHOPMOON_NETConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Cart" Member="Carts">
+    <Type Name="Cart">
+      <Column Name="catID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="proID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="proPrice" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="cartQuantity" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="cartMoney" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Product_Cart" Member="Product" ThisKey="proID" OtherKey="proID" Type="Product" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ProductType" Member="ProductTypes">
+    <Type Name="ProductType">
+      <Column Name="proType" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="proTypeName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="ProductType_Product" Member="Products" ThisKey="proType" OtherKey="proType" Type="Product" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Customers" Member="Customers">
+    <Type Name="Customer">
+      <Column Name="cusID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="cusName" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="cusEmail" Type="System.String" DbType="NChar(100)" CanBeNull="true" />
+      <Column Name="cusPhone" Type="System.String" DbType="NChar(11)" CanBeNull="true" />
+      <Column Name="cusType" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="cusStatus" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="CustomerStatus_Customer" Member="CustomerStatus" ThisKey="cusStatus" OtherKey="cusStatus" Type="CustomerStatus" IsForeignKey="true" />
+      <Association Name="CustomerType_Customer" Member="CustomerType" ThisKey="cusType" OtherKey="cusType" Type="CustomerType" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CustomerStatus" Member="CustomerStatus">
+    <Type Name="CustomerStatus">
+      <Column Name="cusStatus" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="cusStatusName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="CustomerStatus_Customer" Member="Customers" ThisKey="cusStatus" OtherKey="cusStatus" Type="Customer" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CustomerType" Member="CustomerTypes">
+    <Type Name="CustomerType">
+      <Column Name="cusType" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="cusTypeName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="CustomerType_Customer" Member="Customers" ThisKey="cusType" OtherKey="cusType" Type="Customer" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Employees" Member="Employees">
+    <Type Name="Employee">
+      <Column Name="empID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="empName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="empDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="empPhoto" Type="System.String" DbType="Char(100)" CanBeNull="true" />
+      <Column Name="empAddress" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="empSalary" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="empBonus" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="empStartTime" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="empEmail" Type="System.String" DbType="Char(100)" CanBeNull="true" />
+      <Column Name="empPhone" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="empPassword" Type="System.String" DbType="NChar(100)" CanBeNull="true" />
+      <Column Name="empRole" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="EmployeesRole_Employee" Member="EmployeesRole" ThisKey="empRole" OtherKey="empRole" Type="EmployeesRole" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EmployeesRole" Member="EmployeesRoles">
+    <Type Name="EmployeesRole">
+      <Column Name="empRole" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="empRoleName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="EmployeesRole_Employee" Member="Employees" ThisKey="empRole" OtherKey="empRole" Type="Employee" />
+    </Type>
+  </Table>
+  <Table Name="dbo.NhapHang" Member="NhapHangs">
+    <Type Name="NhapHang">
+      <Column Name="orderID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="proID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="proName" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="hangsanxuat" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="orderQuantity" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="dongia" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="tongtien" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ngaynhap" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="ngaynhan" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[Order]" Member="Orders">
+    <Type Name="Order">
+      <Column Name="orderID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="cusID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="proID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="proName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="orderDate" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="proPrice" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="orderQuantity" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="orderMoney" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="empID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Producers" Member="Producers">
+    <Type Name="Producer">
+      <Column Name="proProducer" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="proProducerName" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="proPhone" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="proEmail" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="proAddress" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="ProducerType_Producer" Member="ProducerType" ThisKey="proProducer" OtherKey="proProducer" Type="ProducerType" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ProducerType" Member="ProducerTypes">
+    <Type Name="ProducerType">
+      <Column Name="proProducer" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="proProducerName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="ProducerType_Producer" Member="Producers" ThisKey="proProducer" OtherKey="proProducer" Type="Producer" />
+      <Association Name="ProducerType_Product" Member="Products" ThisKey="proProducer" OtherKey="proProducer" Type="Product" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Product" Member="Products">
+    <Type Name="Product">
+      <Column Name="proID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="proName" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="proPrice" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="proPhoto" Type="System.String" DbType="Char(100)" CanBeNull="true" />
+      <Column Name="proType" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="proStatus" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="proProducer" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="proQuantity" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Product_Cart" Member="Carts" ThisKey="proID" OtherKey="proID" Type="Cart" />
+      <Association Name="ProducerType_Product" Member="ProducerType" ThisKey="proProducer" OtherKey="proProducer" Type="ProducerType" IsForeignKey="true" />
+      <Association Name="ProductType_Product" Member="ProductType" ThisKey="proType" OtherKey="proType" Type="ProductType" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

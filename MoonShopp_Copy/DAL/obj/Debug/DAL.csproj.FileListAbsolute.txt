@@ -1,0 +1,21 @@
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\DAL\bin\Debug\DAL.exe.config
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\DAL\bin\Debug\DAL.exe
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\DAL\bin\Debug\DAL.pdb
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\DAL\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\DAL\obj\Debug\DAL.exe
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\DAL\obj\Debug\DAL.pdb
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\DAL\bin\Debug\DAL.exe.config
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\DAL\bin\Debug\DAL.exe
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\DAL\bin\Debug\DAL.pdb
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\DAL\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\DAL\obj\Debug\DAL.exe
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\DAL\obj\Debug\DAL.pdb
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache

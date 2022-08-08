@@ -1,0 +1,367 @@
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\MoonShopp.exe.config
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\MoonShopp.exe
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\MoonShopp.pdb
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\BLL.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\DAL.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\DAO.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\BLL.pdb
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\DAL.pdb
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\DAO.pdb
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\DAO.dll.config
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\obj\Debug\MoonShopp.csproj.AssemblyReference.cache
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\obj\Debug\MoonShopp.Properties.Resources.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\obj\Debug\MoonShopp.csproj.GenerateResource.cache
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\obj\Debug\MoonShopp.csproj.CoreCompileInputs.cache
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\obj\Debug\MoonShopp.csproj.CopyComplete
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\obj\Debug\MoonShopp.exe
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\obj\Debug\MoonShopp.pdb
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\obj\Debug\MoonShopp.frmMain.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\obj\Debug\MoonShopp.frmLogin.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\obj\Debug\MoonShopp.frmDangKy.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\obj\Debug\MoonShopp.frmQuenMatKhau.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp\MoonShopp\obj\Debug\MoonShopp.frmTrangChu.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\MoonShopp.exe.config
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\MoonShopp.exe
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\MoonShopp.pdb
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\BLL.exe
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\DAL.exe
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\BLL.pdb
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\BLL.exe.config
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\DAL.pdb
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\DAL.exe.config
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\obj\Debug\MoonShopp.csproj.AssemblyReference.cache
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\obj\Debug\MoonShopp.frmDangKy.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\obj\Debug\MoonShopp.frmGioHang.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\obj\Debug\MoonShopp.frmHangSanXuat.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\obj\Debug\MoonShopp.frmHoaDon.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\obj\Debug\MoonShopp.frmLogin.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\obj\Debug\MoonShopp.frmMain.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\obj\Debug\MoonShopp.frmNhanVien.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\obj\Debug\MoonShopp.frmPhanQuyen.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\obj\Debug\MoonShopp.frmQuenMatKhau.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\obj\Debug\MoonShopp.frmSanPham.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\obj\Debug\MoonShopp.frmTrangChu.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\obj\Debug\MoonShopp.Properties.Resources.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\obj\Debug\MoonShopp.csproj.GenerateResource.cache
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\obj\Debug\MoonShopp.csproj.CoreCompileInputs.cache
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\obj\Debug\MoonShopp.csproj.CopyComplete
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\obj\Debug\MoonShopp.exe
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp - Copy\MoonShopp\obj\Debug\MoonShopp.pdb
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\obj\Debug\MoonShopp.csproj.AssemblyReference.cache
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\obj\Debug\MoonShopp.frmDangKy.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\obj\Debug\MoonShopp.frmDangKyThanhVien.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\obj\Debug\MoonShopp.frmDoanhThu.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\obj\Debug\MoonShopp.frmDoiMatKhau.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\obj\Debug\MoonShopp.frmGioHang.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\obj\Debug\MoonShopp.frmHangSanXuat.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\obj\Debug\MoonShopp.frmHoaDon.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\obj\Debug\MoonShopp.frmKhachHang.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\obj\Debug\MoonShopp.frmLogin.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\obj\Debug\MoonShopp.frmMain.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\obj\Debug\MoonShopp.frmNhaCungCap.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\obj\Debug\MoonShopp.frmNhanVien.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\obj\Debug\MoonShopp.frmQuenMatKhau.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\obj\Debug\MoonShopp.frmSanPham.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\obj\Debug\MoonShopp.frmTrangChu.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\obj\Debug\MoonShopp.Properties.Resources.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\obj\Debug\MoonShopp.csproj.GenerateResource.cache
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\obj\Debug\MoonShopp.exe.licenses
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\obj\Debug\MoonShopp.csproj.CoreCompileInputs.cache
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\obj\Debug\MoonShopp.frmReportHoaDonNhapHang.resources
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\MoonShopp.exe.config
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\MoonShopp.exe
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\MoonShopp.pdb
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\BLL.exe
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DAL.exe
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.DataAccess.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.Xpo.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraReports.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.DataAccess.v21.2.UI.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraPivotGrid.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraCharts.v21.2.Extensions.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\stdole.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.Images.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\BLL.pdb
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\BLL.exe.config
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DAL.pdb
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DAL.exe.config
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.DataAccess.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.Xpo.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraReports.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.DataAccess.v21.2.UI.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraPivotGrid.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.2.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\obj\Debug\MoonShopp.csproj.CopyComplete
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\obj\Debug\MoonShopp.exe
+C:\Users\HONG HAC\Desktop\DoAnWinForm\MoonShopp_Copy\MoonShopp\obj\Debug\MoonShopp.pdb
